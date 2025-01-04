@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 I am a **Backend Engineer** specializing in **.NET technologies**, with hands-on experience in designing, developing, and maintaining scalable backend systems. My expertise includes working on **fintech** and **telecommunication** projects, focusing on backend integration, database optimization, and API development. I am always eager to explore innovative solutions and learn new technologies to enhance system performance and reliability.
 
-- 🔭 **Currently Working On:** Developing robust backend solutions in **.NET 8**.
+- 🔭 **Currently Working On:** Developing robust backend solutions in **.NET**.
 - 🌱 **Learning:** Advanced cloud integrations and microservices architecture.
 - 💬 **Ask Me About:** Backend development, APIs, database design, and .NET Core.
 

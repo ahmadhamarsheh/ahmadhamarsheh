@@ -1,79 +1,49 @@
-<h1 align="center">Hi 👋, I'm Ahmad Hamarsheh</h1>
-<h3 align="center">Senior Backend Engineer | Java · Python · AI/LLM Integration</h3>
+<a href="https://ahmadhamarsheh.pages.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" width="100%" alt="Ahmad Hamarsheh — Senior Backend Engineer. Reliable backends for money, identity and commerce.">
+  </picture>
+</a>
 
----
-
-### 👨‍💻 About Me
-
-I am a **Backend Engineer with 6+ years of experience** designing, building, and scaling production backend systems and APIs. I work comfortably across **Java (Spring Boot)** and **Python (FastAPI, Django)**, and I have delivered software for **fintech platforms, large telecom operators, and a FAANG company (Apple)**.
-
-My focus is on reliable REST APIs, microservices, and integrations that hold up under real production traffic, and more recently on **AI and LLM integration**, connecting applications to LLM APIs such as Claude and OpenAI, building chatbot and conversational features, and working with agentic AI workflows.
-
-- 🔭 **Currently:** Building backend services and AI-integrated features within a distributed engineering team.
-- 🌱 **Focus areas:** LLM/AI integration, scalable microservices, and cloud-native backends on Kubernetes.
-- 💬 **Ask me about:** Backend architecture, REST APIs, Java & Python, database design, and integrating LLMs into real products.
-- 🎓 **Master's in Cyber Security** — secure-by-default engineering.
-
----
-
-### 🌐 Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/ahmadhamarsheh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ahmadhamarsheh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
-
----
-
-### 🤖 AI & LLM Integration
-- Integrating **LLM APIs** (Claude, OpenAI / OpenRouter) into backend applications and features.
-- Building **chatbot and conversational systems**, structured prompting, and response validation.
-- Working with **agentic AI workflows** and AI-assisted development tooling in a production environment.
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadhamarsheh&show_icons=true&locale=en" alt="GitHub Stats" />
+  <a href="https://ahmadhamarsheh.pages.dev"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://ahmadhamarsheh.pages.dev/ar/">العربية</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://ahmadhamarsheh.pages.dev/cv/Ahmad-Hamarsheh-CV.pdf">CV (PDF)</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ahmadhamarsheh">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://ahmadhamarsheh.pages.dev/#contact">Contact</a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadhamarsheh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+
+I'm Ahmad. Since 2021 I've built payment, payout, KYC and e-commerce integration systems in Java/Spring Boot, .NET and Python/Django — for US fintech clients, a telecom operator, a logistics company and, today, Apple.
+
+Most of my production work lives in private client repositories, so I write it up as case studies on my site: the problem, the architecture and the results — without confidential code or data.
+
+### Selected work
+
+**[Payment gateways & KYC at Jawwal →](https://ahmadhamarsheh.pages.dev/work/jawwal-payments-kyc/)**<br>
+Bills, top-ups and government identity checks for 150,000+ subscribers.<br>
+**150,000+** subscribers served · **~10% faster** responses on tuned SQL paths · **thousands** of payment transactions a day<br>
+`.NET Core` `C#` `Oracle` `REST` `Prometheus` `Grafana`
+
+**[Earnings & payout engine for a US fintech rewards platform →](https://ahmadhamarsheh.pages.dev/work/fintech-earnings-payouts/)**<br>
+A multi-level referral network, an earnings engine and ledger-style payouts — rolled out white-label for a Latin American distributor.<br>
+**Backend lead** on the platform · every earning and payout **traceable** as a ledger entry · **multi-tenant** white-label launch<br>
+`Python` `Django/DRF` `PostgreSQL` `Celery` `Kubernetes (GKE)`
+
+**[Resilient Salla & Zid integrations at Logestechs →](https://ahmadhamarsheh.pages.dev/work/salla-zid-integrations/)**<br>
+Store orders flowing into shipment tracking and inventory — even when a third-party API is slow or down.<br>
+**~15%** lower API p95 latency · **~20%** lower database load · **10+** high-traffic endpoints tuned<br>
+`Java` `Spring Boot` `MySQL` `RabbitMQ` `Redis` `Resilience4j`
+
+### Stack
+
+```text
+backend    Java/Spring Boot · .NET · Python/Django
+data       PostgreSQL · SQL Server · Oracle · MySQL · Redis
+infra      Docker · Kubernetes (GKE) · RabbitMQ · CI/CD
+domains    Payments · payouts · KYC · telecom · logistics
+```
+
+### Public code
+
+**[Portfolio](https://github.com/ahmadhamarsheh/Portfolio)** — the source of my site: a static Astro build, a contact API on Cloudflare Pages Functions built as ports & adapters (Resend, Turnstile, KV rate limiting), and CI that blocks a merge on any failed check.
 
 ---
 
-### 🏆 Highlights
-- Built and scaled backend systems and REST APIs for **fintech platforms** handling thousands of daily transactions.
-- Delivered backend and integration work for a **large telecom operator**, serving 150,000+ users, including payment gateway, KYC, and chatbot integrations.
-- Designed **microservices** with asynchronous, event-driven messaging for real-time workflows.
-- Optimized **API and database performance** through query tuning and caching.
-- Integrated **LLM APIs** into applications and worked with agentic AI workflows.
-
----
-
-Feel free to explore my repositories and reach out for collaborations or inquiries!
+<sub>Experience: Apple · Logestechs · Jawwal · Road9 · FinPrivado &nbsp;·&nbsp; M.Tech in Cyber Security &nbsp;·&nbsp; Arabic (native) · English (fluent) &nbsp;·&nbsp; Remote — open to clients worldwide</sub>
